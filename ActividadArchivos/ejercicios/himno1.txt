@@ -1,0 +1,6 @@
+La línea 2 tiene 0 caracteres
+La línea 3 tiene 4 caracteres
+La línea 4 tiene 37 caracteres
+La línea 5 tiene 31 caracteres
+La línea 6 tiene 35 caracteres
+La línea 7 tiene 33 caracteres
